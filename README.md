@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> *App introduction goes here ...*
+> *Testing CI/CD with docker*
 
 ## Documentation
 
